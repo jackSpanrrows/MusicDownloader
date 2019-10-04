@@ -47,3 +47,10 @@ go get -u github.com/henson/MusicDownloader
 - http://music.163.com/#/artist/album?id=****** 歌手专辑
 - http://music.163.com/#/album?id=****** 专辑
 - http://music.163.com/#/djradio?id=****** 电台专辑
+
+##### 2019/10/04 17:50
+##### 1.1版本更新
+```
+更新内容:
+    切换go module模式 开发，优化代码
+```
