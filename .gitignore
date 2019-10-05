@@ -2,7 +2,8 @@
 *.o
 *.a
 *.so
-
+*.log
+*.logs
 # Folders
 _obj
 _test
