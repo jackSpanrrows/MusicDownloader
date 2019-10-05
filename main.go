@@ -1,7 +1,7 @@
 package main
 
 import (
-	"MusicDownloader/src/downloader"
+	"github.com/jackSpanrrows/go-share-library/downloader"
 	"fmt"
 	"log"
 	"runtime"
