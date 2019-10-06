@@ -197,7 +197,9 @@ func ParseURL(URL string) (sURL string, action string, err error) {
 		return
 	}
 	var prefix, id string
-	prefix = "http://music.163.com/api"
+	prefix = "http://music.163." +
+		"" +
+		"/api"
 	id = m["id"][0]
 
 	switch u.Path {
