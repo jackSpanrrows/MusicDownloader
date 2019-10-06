@@ -11,7 +11,7 @@ import (
 const (
 	numDowner      = 10   //下载进程
 	chanBufferSize = 1000 //通道缓存
-	version        = 1.1
+	version        = 1.2
 )
 
 func init() {
