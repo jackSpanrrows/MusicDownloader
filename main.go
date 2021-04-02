@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/jackSpanrrows/go-share-library/downloader"
 	"fmt"
+	"github.com/jackSpanrrows/go-share-library/src/downloader"
 	"log"
 	"runtime"
 	"time"
